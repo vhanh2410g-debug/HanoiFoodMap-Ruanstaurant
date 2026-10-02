@@ -1,0 +1,3348 @@
+[
+  {
+    "id": "hn-1",
+    "name": "Phở Gia Truyền Bát Đàn",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Bát Đàn 49",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0321,
+    "longitude": 105.8487,
+    "priceMin": 45000.0,
+    "priceMax": 70000.0,
+    "rating": 4.8,
+    "tags": [
+      "local",
+      "popular"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo",
+      "family"
+    ],
+    "moods": [
+      "local",
+      "popular",
+      "lunch",
+      "dinner",
+      "solo",
+      "family"
+    ],
+    "description": "Pho bò gia truyền với nước dùng trong, thơm quế hồi.",
+    "image": "🍜",
+    "popularity": 92.0,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20Gia%20Truy%E1%BB%81n%20B%C3%A1t%20%C4%90%C3%A0n%2C%20B%C3%A1t%20%C4%90%C3%A0n%2049%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-2",
+    "name": "Phở Thìn Lò Đúc",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Lò Đúc 13",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0167,
+    "longitude": 105.8565,
+    "priceMin": 70000.0,
+    "priceMax": 90000.0,
+    "rating": 4.7,
+    "tags": [
+      "popular",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "popular",
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bát phở tái lăn béo thơm, hành lá đầy đặn.",
+    "image": "🍜",
+    "popularity": 90.8,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20Th%C3%ACn%20L%C3%B2%20%C4%90%C3%BAc%2C%20L%C3%B2%20%C4%90%C3%BAc%2013%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi"
+  },
+  {
+    "id": "hn-3",
+    "name": "Phở cuốn Hương Mai",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Ngũ Xã 25",
+    "area": "Ba Đình",
+    "latitude": 21.0458,
+    "longitude": 105.8372,
+    "priceMin": 50000.0,
+    "priceMax": 100000.0,
+    "rating": 4.6,
+    "tags": [
+      "group-friendly",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "local",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Phở cuốn mát lành bên hồ Trúc Bạch.",
+    "image": "🥢",
+    "popularity": 89.6,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20cu%E1%BB%91n%20H%C6%B0%C6%A1ng%20Mai%2C%20Ng%C5%A9%20X%C3%A3%2025%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi"
+  },
+  {
+    "id": "hn-4",
+    "name": "Bún chả Hàng Quạt",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Quạt 74",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0316,
+    "longitude": 105.8498,
+    "priceMin": 40000.0,
+    "priceMax": 65000.0,
+    "rating": 4.7,
+    "tags": [
+      "hidden-gem",
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "solo",
+      "friends"
+    ],
+    "moods": [
+      "hidden-gem",
+      "local",
+      "cheap",
+      "lunch",
+      "solo",
+      "friends"
+    ],
+    "description": "Chả nướng than hoa ăn cùng bún và rau thơm.",
+    "image": "🍢",
+    "popularity": 88.4,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ch%E1%BA%A3%20H%C3%A0ng%20Qu%E1%BA%A1t%2C%20H%C3%A0ng%20Qu%E1%BA%A1t%2074%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-5",
+    "name": "Bún chả Đắc Kim",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Mành 1",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0329,
+    "longitude": 105.8489,
+    "priceMin": 65000.0,
+    "priceMax": 100000.0,
+    "rating": 4.5,
+    "tags": [
+      "popular"
+    ],
+    "situations": [
+      "lunch",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "lunch",
+      "friends",
+      "family"
+    ],
+    "description": "Bún chả phố cổ với suất ăn hào phóng.",
+    "image": "🍢",
+    "popularity": 87.2,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ch%E1%BA%A3%20%C4%90%E1%BA%AFc%20Kim%2C%20H%C3%A0ng%20M%C3%A0nh%201%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-6",
+    "name": "Bún riêu tóp mỡ Hàng Bạc",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Hàng Bạc 11",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0347,
+    "longitude": 105.8524,
+    "priceMin": 35000.0,
+    "priceMax": 60000.0,
+    "rating": 4.5,
+    "tags": [
+      "hidden-gem",
+      "cheap",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "cheap",
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bát bún riêu cua chua dịu, thêm tóp mỡ giòn.",
+    "image": "🍲",
+    "popularity": 86.0,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ri%C3%AAu%20t%C3%B3p%20m%E1%BB%A1%20H%C3%A0ng%20B%E1%BA%A1c%2C%20H%C3%A0ng%20B%E1%BA%A1c%2011%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-7",
+    "name": "Bún thang Bà Đức",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Cầu Gỗ 48",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0325,
+    "longitude": 105.8518,
+    "priceMin": 50000.0,
+    "priceMax": 80000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "quiet"
+    ],
+    "situations": [
+      "lunch",
+      "solo",
+      "family"
+    ],
+    "moods": [
+      "local",
+      "quiet",
+      "lunch",
+      "solo",
+      "family"
+    ],
+    "description": "Bún thang thanh nhẹ với trứng, giò và gà xé.",
+    "image": "🍲",
+    "popularity": 84.8,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20thang%20B%C3%A0%20%C4%90%E1%BB%A9c%2C%20C%E1%BA%A7u%20G%E1%BB%97%2048%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-8",
+    "name": "Bún cá Sâm Cây Si",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Trung Yên 5",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0318,
+    "longitude": 105.8509,
+    "priceMin": 40000.0,
+    "priceMax": 65000.0,
+    "rating": 4.6,
+    "tags": [
+      "hidden-gem",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Cá chiên giòn trong bát bún thì là thơm lừng.",
+    "image": "🐟",
+    "popularity": 83.6,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20c%C3%A1%20S%C3%A2m%20C%C3%A2y%20Si%2C%20Trung%20Y%C3%AAn%205%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-9",
+    "name": "Miến lươn Đông Thịnh",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Hàng Điếu 87",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0344,
+    "longitude": 105.8463,
+    "priceMin": 45000.0,
+    "priceMax": 80000.0,
+    "rating": 4.5,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Miến lươn nước hoặc trộn với lươn giòn.",
+    "image": "🍜",
+    "popularity": 82.4,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mi%E1%BA%BFn%20l%C6%B0%C6%A1n%20%C4%90%C3%B4ng%20Th%E1%BB%8Bnh%2C%20H%C3%A0ng%20%C4%90i%E1%BA%BFu%2087%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-10",
+    "name": "Bánh mì Trâm",
+    "category": "Banh Mi",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Đình Ngang 30",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0294,
+    "longitude": 105.8446,
+    "priceMin": 30000.0,
+    "priceMax": 55000.0,
+    "rating": 4.5,
+    "tags": [
+      "cheap",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "cheap",
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bánh mì sốt vang đậm đà giữa lòng phố cổ.",
+    "image": "🥖",
+    "popularity": 81.2,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20m%C3%AC%20Tr%C3%A2m%2C%20%C4%90%C3%ACnh%20Ngang%2030%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-11",
+    "name": "Bánh mì 25",
+    "category": "Banh Mi",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Cá 25",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0344,
+    "longitude": 105.8494,
+    "priceMin": 25000.0,
+    "priceMax": 50000.0,
+    "rating": 4.4,
+    "tags": [
+      "popular",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "popular",
+      "cheap",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Ổ bánh mì giòn rụm với nhiều lựa chọn nhân.",
+    "image": "🥖",
+    "popularity": 80.0,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20m%C3%AC%2025%2C%20H%C3%A0ng%20C%C3%A1%2025%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-12",
+    "name": "Bánh mì Dân Tổ",
+    "category": "Banh Mi",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Cao Thắng 32",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0171,
+    "longitude": 105.8531,
+    "priceMin": 30000.0,
+    "priceMax": 50000.0,
+    "rating": 4.5,
+    "tags": [
+      "late-night",
+      "cheap",
+      "popular"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "friends"
+    ],
+    "moods": [
+      "late-night",
+      "cheap",
+      "popular",
+      "dinner",
+      "friends"
+    ],
+    "description": "Bánh mì chảo nóng hổi nổi tiếng ăn khuya.",
+    "image": "🥖",
+    "popularity": 78.8,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20m%C3%AC%20D%C3%A2n%20T%E1%BB%95%2C%20Cao%20Th%E1%BA%AFng%2032%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi"
+  },
+  {
+    "id": "hn-13",
+    "name": "Cơm tấm Sà Bì Chưởng",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nguyễn Trãi 86",
+    "area": "Thanh Xuân",
+    "latitude": 20.9971,
+    "longitude": 105.8147,
+    "priceMin": 55000.0,
+    "priceMax": 100000.0,
+    "rating": 4.4,
+    "tags": [
+      "group-friendly",
+      "popular"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "group-friendly",
+      "popular",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Cơm tấm sườn nướng thơm, bì và đồ chua.",
+    "image": "🍚",
+    "popularity": 77.6,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%C6%A1m%20t%E1%BA%A5m%20S%C3%A0%20B%C3%AC%20Ch%C6%B0%E1%BB%9Fng%2C%20Nguy%E1%BB%85n%20Tr%C3%A3i%2086%2C%20Thanh%20Xu%C3%A2n%2C%20Hanoi"
+  },
+  {
+    "id": "hn-14",
+    "name": "Cơm rang dưa bò Mã Mây",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Mã Mây 38",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0357,
+    "longitude": 105.8521,
+    "priceMin": 45000.0,
+    "priceMax": 75000.0,
+    "rating": 4.5,
+    "tags": [
+      "late-night",
+      "local"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "friends"
+    ],
+    "moods": [
+      "late-night",
+      "local",
+      "dinner",
+      "friends"
+    ],
+    "description": "Cơm rang săn hạt ăn cùng dưa bò xào nóng.",
+    "image": "🍚",
+    "popularity": 76.4,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%C6%A1m%20rang%20d%C6%B0a%20b%C3%B2%20M%C3%A3%20M%C3%A2y%2C%20M%C3%A3%20M%C3%A2y%2038%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-15",
+    "name": "Cơm gà Hội An",
+    "category": "Chicken",
+    "foodGroup": "chicken",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lý Quốc Sư 1",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0299,
+    "longitude": 105.8506,
+    "priceMin": 55000.0,
+    "priceMax": 95000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "family-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "family"
+    ],
+    "moods": [
+      "local",
+      "family-friendly",
+      "lunch",
+      "dinner",
+      "family"
+    ],
+    "description": "Cơm gà vàng óng cùng rau thơm và nước sốt.",
+    "image": "🍗",
+    "popularity": 75.2,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%C6%A1m%20g%C3%A0%20H%E1%BB%99i%20An%2C%20L%C3%BD%20Qu%E1%BB%91c%20S%C6%B0%201%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-16",
+    "name": "Gà Không Lối Thoát",
+    "category": "Chicken",
+    "foodGroup": "chicken",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Trần Thái Tông 16",
+    "area": "Cầu Giấy",
+    "latitude": 21.0362,
+    "longitude": 105.7894,
+    "priceMin": 180000.0,
+    "priceMax": 350000.0,
+    "rating": 4.7,
+    "tags": [
+      "group-friendly",
+      "popular"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "popular",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Gà bọc xôi chiên giòn, hợp cho một bàn đông.",
+    "image": "🍗",
+    "popularity": 74.0,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=G%C3%A0%20Kh%C3%B4ng%20L%E1%BB%91i%20Tho%C3%A1t%2C%20Tr%E1%BA%A7n%20Th%C3%A1i%20T%C3%B4ng%2016%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20Hanoi"
+  },
+  {
+    "id": "hn-17",
+    "name": "Chân gà nướng Thịnh Vượng",
+    "category": "Chicken",
+    "foodGroup": "chicken",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lý Văn Phức 5",
+    "area": "Đống Đa",
+    "latitude": 21.0207,
+    "longitude": 105.8246,
+    "priceMin": 50000.0,
+    "priceMax": 130000.0,
+    "rating": 4.5,
+    "tags": [
+      "late-night",
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "friends"
+    ],
+    "moods": [
+      "late-night",
+      "group-friendly",
+      "dinner",
+      "friends"
+    ],
+    "description": "Chân gà nướng mật ong trên con phố đồ nướng.",
+    "image": "🍗",
+    "popularity": 72.8,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2n%20g%C3%A0%20n%C6%B0%E1%BB%9Bng%20Th%E1%BB%8Bnh%20V%C6%B0%E1%BB%A3ng%2C%20L%C3%BD%20V%C4%83n%20Ph%E1%BB%A9c%205%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi"
+  },
+  {
+    "id": "hn-18",
+    "name": "Gà tần Cây Si",
+    "category": "Chicken",
+    "foodGroup": "chicken",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Tống Duy Tân 29",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0305,
+    "longitude": 105.8448,
+    "priceMin": 45000.0,
+    "priceMax": 85000.0,
+    "rating": 4.6,
+    "tags": [
+      "local",
+      "late-night"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "late-night",
+      "dinner",
+      "solo"
+    ],
+    "description": "Gà tần thuốc bắc nóng hổi trong lon nhỏ.",
+    "image": "🍲",
+    "popularity": 71.6,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=G%C3%A0%20t%E1%BA%A7n%20C%C3%A2y%20Si%2C%20T%E1%BB%91ng%20Duy%20T%C3%A2n%2029%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-19",
+    "name": "Lẩu Đức Trọc",
+    "category": "Hotpot",
+    "foodGroup": "hotpot",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Yên Phụ 69",
+    "area": "Tây Hồ",
+    "latitude": 21.0494,
+    "longitude": 105.8362,
+    "priceMin": 180000.0,
+    "priceMax": 350000.0,
+    "rating": 4.4,
+    "tags": [
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Nồi lẩu sôi sùng sục cho buổi tụ họp bạn bè.",
+    "image": "🍲",
+    "popularity": 70.4,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=L%E1%BA%A9u%20%C4%90%E1%BB%A9c%20Tr%E1%BB%8Dc%2C%20Y%C3%AAn%20Ph%E1%BB%A5%2069%2C%20T%C3%A2y%20H%E1%BB%93%2C%20Hanoi"
+  },
+  {
+    "id": "hn-20",
+    "name": "Lẩu Phan",
+    "category": "Hotpot",
+    "foodGroup": "hotpot",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Thái Hà 7",
+    "area": "Đống Đa",
+    "latitude": 21.0098,
+    "longitude": 105.8225,
+    "priceMin": 129000.0,
+    "priceMax": 220000.0,
+    "rating": 4.3,
+    "tags": [
+      "group-friendly",
+      "cheap"
+    ],
+    "situations": [
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "group-friendly",
+      "cheap",
+      "dinner",
+      "friends"
+    ],
+    "description": "Lẩu bò và buffet dễ chia bill cho nhóm.",
+    "image": "🍲",
+    "popularity": 69.2,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=L%E1%BA%A9u%20Phan%2C%20Th%C3%A1i%20H%C3%A0%207%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi"
+  },
+  {
+    "id": "hn-21",
+    "name": "Bò nướng Xuân Xuân",
+    "category": "BBQ",
+    "foodGroup": "grill",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Mã Mây 47",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0359,
+    "longitude": 105.8522,
+    "priceMin": 100000.0,
+    "priceMax": 250000.0,
+    "rating": 4.5,
+    "tags": [
+      "late-night",
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "friends",
+      "date"
+    ],
+    "moods": [
+      "late-night",
+      "group-friendly",
+      "dinner",
+      "friends",
+      "date"
+    ],
+    "description": "Bò nướng bàn gang thơm nức phố cổ.",
+    "image": "🥩",
+    "popularity": 68.0,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%B2%20n%C6%B0%E1%BB%9Bng%20Xu%C3%A2n%20Xu%C3%A2n%2C%20M%C3%A3%20M%C3%A2y%2047%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-22",
+    "name": "Ốc Hạnh",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lương Định Của 27",
+    "area": "Đống Đa",
+    "latitude": 21.0083,
+    "longitude": 105.8303,
+    "priceMin": 60000.0,
+    "priceMax": 180000.0,
+    "rating": 4.5,
+    "tags": [
+      "group-friendly",
+      "local"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "friends"
+    ],
+    "moods": [
+      "group-friendly",
+      "local",
+      "dinner",
+      "late-night",
+      "friends"
+    ],
+    "description": "Ốc xào me và ngao hấp sả cho buổi lai rai.",
+    "image": "🐚",
+    "popularity": 66.8,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E1%BB%90c%20H%E1%BA%A1nh%2C%20L%C6%B0%C6%A1ng%20%C4%90%E1%BB%8Bnh%20C%E1%BB%A7a%2027%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi"
+  },
+  {
+    "id": "hn-23",
+    "name": "Nem chua rán Tạm Thương",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Tạm Thương 8",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0311,
+    "longitude": 105.8471,
+    "priceMin": 30000.0,
+    "priceMax": 70000.0,
+    "rating": 4.4,
+    "tags": [
+      "hidden-gem",
+      "cheap"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "late-night"
+    ],
+    "moods": [
+      "hidden-gem",
+      "cheap",
+      "dinner",
+      "friends",
+      "late-night"
+    ],
+    "description": "Ngõ nhỏ phố cổ với nem chua rán nóng giòn.",
+    "image": "🥟",
+    "popularity": 65.6,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nem%20chua%20r%C3%A1n%20T%E1%BA%A1m%20Th%C6%B0%C6%A1ng%2C%20T%E1%BA%A1m%20Th%C6%B0%C6%A1ng%208%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-24",
+    "name": "Bánh gối Lý Quốc Sư",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lý Quốc Sư 52",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0287,
+    "longitude": 105.8505,
+    "priceMin": 20000.0,
+    "priceMax": 50000.0,
+    "rating": 4.3,
+    "tags": [
+      "cheap",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "moods": [
+      "cheap",
+      "local",
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "description": "Bánh gối vàng ruộm chấm nước mắm chua ngọt.",
+    "image": "🥟",
+    "popularity": 64.4,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20g%E1%BB%91i%20L%C3%BD%20Qu%E1%BB%91c%20S%C6%B0%2C%20L%C3%BD%20Qu%E1%BB%91c%20S%C6%B0%2052%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-25",
+    "name": "Nộm bò khô Long Vi Dung",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hồ Hoàn Kiếm 23",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0301,
+    "longitude": 105.8522,
+    "priceMin": 30000.0,
+    "priceMax": 60000.0,
+    "rating": 4.4,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Nộm đu đủ giòn giòn cùng bò khô và rau thơm.",
+    "image": "🥗",
+    "popularity": 63.2,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=N%E1%BB%99m%20b%C3%B2%20kh%C3%B4%20Long%20Vi%20Dung%2C%20H%E1%BB%93%20Ho%C3%A0n%20Ki%E1%BA%BFm%2023%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-26",
+    "name": "Chè Bốn Mùa",
+    "category": "Dessert",
+    "foodGroup": "dessert",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Cân 4",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0342,
+    "longitude": 105.8491,
+    "priceMin": 20000.0,
+    "priceMax": 50000.0,
+    "rating": 4.3,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Quán chè lâu năm với những món ngọt theo mùa.",
+    "image": "🍧",
+    "popularity": 62.0,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A8%20B%E1%BB%91n%20M%C3%B9a%2C%20H%C3%A0ng%20C%C3%A2n%204%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-27",
+    "name": "Kem Tràng Tiền",
+    "category": "Dessert",
+    "foodGroup": "dessert",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Tràng Tiền 35",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0254,
+    "longitude": 105.8541,
+    "priceMin": 12000.0,
+    "priceMax": 35000.0,
+    "rating": 4.5,
+    "tags": [
+      "popular",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "cheap",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Que kem cốm mát lạnh, một vòng hồ là vừa.",
+    "image": "🍦",
+    "popularity": 60.8,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kem%20Tr%C3%A0ng%20Ti%E1%BB%81n%2C%20Tr%C3%A0ng%20Ti%E1%BB%81n%2035%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-28",
+    "name": "Tào phớ Nghĩa Tân",
+    "category": "Dessert",
+    "foodGroup": "dessert",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nghĩa Tân 2",
+    "area": "Cầu Giấy",
+    "latitude": 21.0465,
+    "longitude": 105.7908,
+    "priceMin": 15000.0,
+    "priceMax": 35000.0,
+    "rating": 4.4,
+    "tags": [
+      "hidden-gem",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "cheap",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Tào phớ mềm mịn chan nước đường hoa nhài.",
+    "image": "🍮",
+    "popularity": 59.6,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=T%C3%A0o%20ph%E1%BB%9B%20Ngh%C4%A9a%20T%C3%A2n%2C%20Ngh%C4%A9a%20T%C3%A2n%202%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20Hanoi"
+  },
+  {
+    "id": "hn-29",
+    "name": "Café Giảng",
+    "category": "Cafe",
+    "foodGroup": "drinks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nguyễn Hữu Huân 39",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0339,
+    "longitude": 105.8535,
+    "priceMin": 25000.0,
+    "priceMax": 60000.0,
+    "rating": 4.5,
+    "tags": [
+      "popular",
+      "quiet"
+    ],
+    "situations": [
+      "study",
+      "date",
+      "solo"
+    ],
+    "moods": [
+      "popular",
+      "quiet",
+      "study",
+      "date",
+      "solo"
+    ],
+    "description": "Cà phê trứng béo mịn trong căn nhà phố cũ.",
+    "image": "☕",
+    "popularity": 58.4,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Gi%E1%BA%A3ng%2C%20Nguy%E1%BB%85n%20H%E1%BB%AFu%20Hu%C3%A2n%2039%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-30",
+    "name": "Tranquil Books & Coffee",
+    "category": "Cafe",
+    "foodGroup": "drinks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nguyễn Quang Bích 5",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0332,
+    "longitude": 105.8446,
+    "priceMin": 35000.0,
+    "priceMax": 75000.0,
+    "rating": 4.6,
+    "tags": [
+      "quiet",
+      "study-friendly"
+    ],
+    "situations": [
+      "study",
+      "solo",
+      "date"
+    ],
+    "moods": [
+      "quiet",
+      "study-friendly",
+      "study",
+      "solo",
+      "date"
+    ],
+    "description": "Góc đọc sách yên tĩnh nép trong ngõ nhỏ.",
+    "image": "📚",
+    "popularity": 57.2,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tranquil%20Books%20%26%20Coffee%2C%20Nguy%E1%BB%85n%20Quang%20B%C3%ADch%205%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-31",
+    "name": "Cộng Cà Phê Nhà Thờ",
+    "category": "Cafe",
+    "foodGroup": "drinks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nhà Thờ 27",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0285,
+    "longitude": 105.8497,
+    "priceMin": 35000.0,
+    "priceMax": 70000.0,
+    "rating": 4.3,
+    "tags": [
+      "date",
+      "quiet"
+    ],
+    "situations": [
+      "study",
+      "date",
+      "solo"
+    ],
+    "moods": [
+      "date",
+      "quiet",
+      "study",
+      "solo"
+    ],
+    "description": "Cà phê cốt dừa nhìn ra Nhà thờ lớn.",
+    "image": "☕",
+    "popularity": 56.0,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20Nh%C3%A0%20Th%E1%BB%9D%2C%20Nh%C3%A0%20Th%E1%BB%9D%2027%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-32",
+    "name": "The Note Coffee",
+    "category": "Cafe",
+    "foodGroup": "drinks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lương Văn Can 64",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0317,
+    "longitude": 105.8517,
+    "priceMin": 40000.0,
+    "priceMax": 85000.0,
+    "rating": 4.3,
+    "tags": [
+      "date",
+      "popular"
+    ],
+    "situations": [
+      "date",
+      "study",
+      "solo"
+    ],
+    "moods": [
+      "date",
+      "popular",
+      "study",
+      "solo"
+    ],
+    "description": "Quán cà phê đầy giấy note bên hồ Gươm.",
+    "image": "☕",
+    "popularity": 54.800000000000004,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20Note%20Coffee%2C%20L%C6%B0%C6%A1ng%20V%C4%83n%20Can%2064%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-33",
+    "name": "Bún đậu Hàng Khay",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Khay 31",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0268,
+    "longitude": 105.8514,
+    "priceMin": 40000.0,
+    "priceMax": 80000.0,
+    "rating": 4.5,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Mẹt bún đậu mắm tôm đủ món, đủ rau.",
+    "image": "🍱",
+    "popularity": 53.6,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20%C4%91%E1%BA%ADu%20H%C3%A0ng%20Khay%2C%20H%C3%A0ng%20Khay%2031%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-34",
+    "name": "Bánh cuốn Bà Hanh",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Thọ Xương 26",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0284,
+    "longitude": 105.8492,
+    "priceMin": 35000.0,
+    "priceMax": 65000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "quiet"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "quiet",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Bánh cuốn tráng mỏng ăn kèm chả quế.",
+    "image": "🥢",
+    "popularity": 52.4,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20cu%E1%BB%91n%20B%C3%A0%20Hanh%2C%20Th%E1%BB%8D%20X%C6%B0%C6%A1ng%2026%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-35",
+    "name": "Xôi Yến",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nguyễn Hữu Huân 35",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0335,
+    "longitude": 105.8533,
+    "priceMin": 35000.0,
+    "priceMax": 70000.0,
+    "rating": 4.4,
+    "tags": [
+      "late-night",
+      "popular"
+    ],
+    "situations": [
+      "breakfast",
+      "dinner",
+      "late-night",
+      "solo"
+    ],
+    "moods": [
+      "late-night",
+      "popular",
+      "breakfast",
+      "dinner",
+      "solo"
+    ],
+    "description": "Xôi dẻo thêm trứng kho, pate hoặc gà xào.",
+    "image": "🍚",
+    "popularity": 51.2,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=X%C3%B4i%20Y%E1%BA%BFn%2C%20Nguy%E1%BB%85n%20H%E1%BB%AFu%20Hu%C3%A2n%2035%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-36",
+    "name": "Bún ốc cô Huệ",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Nguyễn Siêu 43",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0358,
+    "longitude": 105.8514,
+    "priceMin": 35000.0,
+    "priceMax": 60000.0,
+    "rating": 4.5,
+    "tags": [
+      "hidden-gem",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bún ốc nhỏ thanh vị với giấm bỗng thơm.",
+    "image": "🐚",
+    "popularity": 50.0,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20%E1%BB%91c%20c%C3%B4%20Hu%E1%BB%87%2C%20Nguy%E1%BB%85n%20Si%C3%AAu%2043%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-37",
+    "name": "Phở gà Nguyệt",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Phủ Doãn 5",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0296,
+    "longitude": 105.8479,
+    "priceMin": 45000.0,
+    "priceMax": 75000.0,
+    "rating": 4.6,
+    "tags": [
+      "late-night",
+      "local"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "solo"
+    ],
+    "moods": [
+      "late-night",
+      "local",
+      "dinner",
+      "solo"
+    ],
+    "description": "Phở gà trộn hoặc nước ở góc phố quen.",
+    "image": "🍜",
+    "popularity": 48.800000000000004,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20g%C3%A0%20Nguy%E1%BB%87t%2C%20Ph%E1%BB%A7%20Do%C3%A3n%205%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-38",
+    "name": "Bún bò Huế O Xuân",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Quang Trung 3",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0228,
+    "longitude": 105.8492,
+    "priceMin": 50000.0,
+    "priceMax": 85000.0,
+    "rating": 4.3,
+    "tags": [
+      "spicy",
+      "popular"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "spicy",
+      "popular",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Nước dùng đậm đà với chút cay nồng.",
+    "image": "🌶️",
+    "popularity": 47.6,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20b%C3%B2%20Hu%E1%BA%BF%20O%20Xu%C3%A2n%2C%20Quang%20Trung%203%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-39",
+    "name": "Bánh xèo Sáu Phước",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Đội Cấn 74",
+    "area": "Ba Đình",
+    "latitude": 21.0368,
+    "longitude": 105.8242,
+    "priceMin": 45000.0,
+    "priceMax": 100000.0,
+    "rating": 4.4,
+    "tags": [
+      "group-friendly",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "group-friendly",
+      "local",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Bánh xèo giòn cuốn rau sống và bánh tráng.",
+    "image": "🥞",
+    "popularity": 46.4,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20x%C3%A8o%20S%C3%A1u%20Ph%C6%B0%E1%BB%9Bc%2C%20%C4%90%E1%BB%99i%20C%E1%BA%A5n%2074%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi"
+  },
+  {
+    "id": "hn-40",
+    "name": "Pizza 4P’s Tràng Tiền",
+    "category": "Cafe",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Tràng Tiền 43",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0257,
+    "longitude": 105.8548,
+    "priceMin": 150000.0,
+    "priceMax": 350000.0,
+    "rating": 4.7,
+    "tags": [
+      "date",
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "date",
+      "friends"
+    ],
+    "moods": [
+      "date",
+      "group-friendly",
+      "dinner",
+      "friends"
+    ],
+    "description": "Pizza phô mai nhà làm trong không gian ấm cúng.",
+    "image": "🍕",
+    "popularity": 45.2,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%204P%E2%80%99s%20Tr%C3%A0ng%20Ti%E1%BB%81n%2C%20Tr%C3%A0ng%20Ti%E1%BB%81n%2043%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-41",
+    "name": "Bún ngan Nhàn",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Ngõ Trung Yên 11",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0319,
+    "longitude": 105.8511,
+    "priceMin": 40000.0,
+    "priceMax": 75000.0,
+    "rating": 4.2,
+    "tags": [
+      "hidden-gem",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bún ngan chấm với măng cay và nước chấm riêng.",
+    "image": "🍲",
+    "popularity": 44.0,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ngan%20Nh%C3%A0n%2C%20Ng%C3%B5%20Trung%20Y%C3%AAn%2011%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-42",
+    "name": "Bánh rán Lạc Long Quân",
+    "category": "Dessert",
+    "foodGroup": "dessert",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lạc Long Quân 158",
+    "area": "Tây Hồ",
+    "latitude": 21.0615,
+    "longitude": 105.8182,
+    "priceMin": 10000.0,
+    "priceMax": 30000.0,
+    "rating": 4.4,
+    "tags": [
+      "cheap",
+      "hidden-gem"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "family"
+    ],
+    "moods": [
+      "cheap",
+      "hidden-gem",
+      "lunch",
+      "dinner",
+      "family"
+    ],
+    "description": "Bánh rán mật nóng giòn, thơm mùi vừng.",
+    "image": "🍩",
+    "popularity": 42.800000000000004,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20r%C3%A1n%20L%E1%BA%A1c%20Long%20Qu%C3%A2n%2C%20L%E1%BA%A1c%20Long%20Qu%C3%A2n%20158%2C%20T%C3%A2y%20H%E1%BB%93%2C%20Hanoi"
+  },
+  {
+    "id": "hn-43",
+    "name": "Bún chả Sinh Từ",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nguyễn Khánh Toàn 2",
+    "area": "Cầu Giấy",
+    "latitude": 21.0391,
+    "longitude": 105.7984,
+    "priceMin": 50000.0,
+    "priceMax": 85000.0,
+    "rating": 4.3,
+    "tags": [
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "lunch",
+      "friends"
+    ],
+    "description": "Thịt nướng than hoa và bát nước chấm đậm vị.",
+    "image": "🍢",
+    "popularity": 41.6,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ch%E1%BA%A3%20Sinh%20T%E1%BB%AB%2C%20Nguy%E1%BB%85n%20Kh%C3%A1nh%20To%C3%A0n%202%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20Hanoi"
+  },
+  {
+    "id": "hn-44",
+    "name": "Cháo sườn Hàng Bồ",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Bồ 32",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0343,
+    "longitude": 105.8472,
+    "priceMin": 20000.0,
+    "priceMax": 45000.0,
+    "rating": 4.4,
+    "tags": [
+      "late-night",
+      "cheap"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "solo"
+    ],
+    "moods": [
+      "late-night",
+      "cheap",
+      "dinner",
+      "solo"
+    ],
+    "description": "Cháo sườn sánh mịn thêm quẩy giòn.",
+    "image": "🥣",
+    "popularity": 40.4,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A1o%20s%C6%B0%E1%BB%9Dn%20H%C3%A0ng%20B%E1%BB%93%2C%20H%C3%A0ng%20B%E1%BB%93%2032%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-45",
+    "name": "Bánh cuốn Thanh Trì",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Tô Hiến Thành 66",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0157,
+    "longitude": 105.8498,
+    "priceMin": 30000.0,
+    "priceMax": 55000.0,
+    "rating": 4.3,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Bánh cuốn mỏng nhẹ chấm nước mắm cà cuống.",
+    "image": "🥢",
+    "popularity": 39.2,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20cu%E1%BB%91n%20Thanh%20Tr%C3%AC%2C%20T%C3%B4%20Hi%E1%BA%BFn%20Th%C3%A0nh%2066%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi"
+  },
+  {
+    "id": "hn-46",
+    "name": "Bún cá cay Hải Phòng",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Thái Hà 71",
+    "area": "Đống Đa",
+    "latitude": 21.0073,
+    "longitude": 105.8198,
+    "priceMin": 45000.0,
+    "priceMax": 75000.0,
+    "rating": 4.4,
+    "tags": [
+      "spicy",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner"
+    ],
+    "moods": [
+      "spicy",
+      "local",
+      "lunch",
+      "dinner"
+    ],
+    "description": "Bún cá giòn trong nước dùng cay chua dịu.",
+    "image": "🐟",
+    "popularity": 38.0,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20c%C3%A1%20cay%20H%E1%BA%A3i%20Ph%C3%B2ng%2C%20Th%C3%A1i%20H%C3%A0%2071%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi"
+  },
+  {
+    "id": "hn-47",
+    "name": "Cà phê Đinh",
+    "category": "Cafe",
+    "foodGroup": "drinks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Đinh Tiên Hoàng 13",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0305,
+    "longitude": 105.8526,
+    "priceMin": 25000.0,
+    "priceMax": 50000.0,
+    "rating": 4.5,
+    "tags": [
+      "hidden-gem",
+      "quiet"
+    ],
+    "situations": [
+      "study",
+      "date",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "quiet",
+      "study",
+      "date",
+      "solo"
+    ],
+    "description": "Quán nhỏ nhìn xuống hồ, thử cà phê trứng.",
+    "image": "☕",
+    "popularity": 36.800000000000004,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%A0%20ph%C3%AA%20%C4%90inh%2C%20%C4%90inh%20Ti%C3%AAn%20Ho%C3%A0ng%2013%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-48",
+    "name": "Bánh đa cua Phùng Hưng",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Phùng Hưng 66",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0352,
+    "longitude": 105.8461,
+    "priceMin": 40000.0,
+    "priceMax": 70000.0,
+    "rating": 4.3,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bánh đa đỏ, chả lá lốt và rau muống giòn.",
+    "image": "🍲",
+    "popularity": 35.6,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20%C4%91a%20cua%20Ph%C3%B9ng%20H%C6%B0ng%2C%20Ph%C3%B9ng%20H%C6%B0ng%2066%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-49",
+    "name": "Tokbokki Ngõ Huyện",
+    "category": "Noodles",
+    "foodGroup": "asian",
+    "cuisineRegion": "Hàn Quốc",
+    "form": "dry",
+    "address": "Ngõ Huyện 12",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0303,
+    "longitude": 105.8478,
+    "priceMin": 45000.0,
+    "priceMax": 110000.0,
+    "rating": 4.5,
+    "tags": [
+      "spicy",
+      "group-friendly",
+      "popular"
+    ],
+    "situations": [
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "spicy",
+      "group-friendly",
+      "popular",
+      "dinner",
+      "friends"
+    ],
+    "description": "Bánh gạo cay kiểu Hàn, có chả cá và phô mai.",
+    "image": "🍢",
+    "popularity": 34.400000000000006,
+    "openingHours": "07:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tokbokki%20Ng%C3%B5%20Huy%E1%BB%87n%2C%20Ng%C3%B5%20Huy%E1%BB%87n%2012%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-50",
+    "name": "Ramen Kuma",
+    "category": "Noodles",
+    "foodGroup": "asian",
+    "cuisineRegion": "Nhật Bản",
+    "form": "dry",
+    "address": "Thái Hà 102",
+    "area": "Đống Đa",
+    "latitude": 21.0103,
+    "longitude": 105.8188,
+    "priceMin": 85000.0,
+    "priceMax": 160000.0,
+    "rating": 4.6,
+    "tags": [
+      "popular",
+      "quiet"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "popular",
+      "quiet",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Tô ramen nóng với nước dùng ninh chậm và trứng lòng đào.",
+    "image": "🍜",
+    "popularity": 33.2,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ramen%20Kuma%2C%20Th%C3%A1i%20H%C3%A0%20102%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi"
+  },
+  {
+    "id": "hn-51",
+    "name": "Vịt quay Quảng Đông Minh Ký",
+    "category": "Rice",
+    "foodGroup": "asian",
+    "cuisineRegion": "Trung Quốc",
+    "form": "dry",
+    "address": "Hàng Buồm 28",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0351,
+    "longitude": 105.8529,
+    "priceMin": 75000.0,
+    "priceMax": 180000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Vịt quay da giòn ăn kèm cơm hoặc mì trứng.",
+    "image": "🍗",
+    "popularity": 32.0,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=V%E1%BB%8Bt%20quay%20Qu%E1%BA%A3ng%20%C4%90%C3%B4ng%20Minh%20K%C3%BD%2C%20H%C3%A0ng%20Bu%E1%BB%93m%2028%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi"
+  },
+  {
+    "id": "hn-52",
+    "name": "Pad Thai Góc Thái",
+    "category": "Noodles",
+    "foodGroup": "asian",
+    "cuisineRegion": "Thái Lan",
+    "form": "dry",
+    "address": "Tô Ngọc Vân 18",
+    "area": "Tây Hồ",
+    "latitude": 21.0651,
+    "longitude": 105.8258,
+    "priceMin": 70000.0,
+    "priceMax": 145000.0,
+    "rating": 4.5,
+    "tags": [
+      "spicy",
+      "date",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "date"
+    ],
+    "moods": [
+      "spicy",
+      "date",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Pad Thai chua ngọt, lạc rang và chanh tươi.",
+    "image": "🍜",
+    "popularity": 30.800000000000004,
+    "openingHours": "18:00–02:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pad%20Thai%20G%C3%B3c%20Th%C3%A1i%2C%20T%C3%B4%20Ng%E1%BB%8Dc%20V%C3%A2n%2018%2C%20T%C3%A2y%20H%E1%BB%93%2C%20Hanoi"
+  },
+  {
+    "id": "hn-53",
+    "name": "Phở 10 Lý Quốc Sư",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Lý Quốc Sư 10",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0304701,
+    "longitude": 105.84876,
+    "priceMin": 60000.0,
+    "priceMax": 100000.0,
+    "rating": 4.1,
+    "tags": [
+      "popular"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "popular",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Phở bò nổi tiếng trên phố Lý Quốc Sư, thực đơn gọn với các phần tái, chín, gầu; giờ cao điểm hay phải xếp hàng.",
+    "image": "🍜",
+    "popularity": 29.6,
+    "openingHours": "06:00–21:45",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%2010%20L%C3%BD%20Qu%E1%BB%91c%20S%C6%B0%2C%20L%C3%BD%20Qu%E1%BB%91c%20S%C6%B0%2010%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJAQWxiJWrNTER69Gq01PMo_g"
+  },
+  {
+    "id": "hn-54",
+    "name": "Phở Lý Quốc Sư Phùng Hưng",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Phùng Hưng 27B",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0379129,
+    "longitude": 105.8466462,
+    "priceMin": 60000.0,
+    "priceMax": 90000.0,
+    "rating": 4.2,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Quán phở bò lâu năm trên phố Phùng Hưng, nước dùng nhẹ; quán nhỏ nên chỗ ngồi và để xe khá chật.",
+    "image": "🍜",
+    "popularity": 28.400000000000006,
+    "openingHours": "06:00–14:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20L%C3%BD%20Qu%E1%BB%91c%20S%C6%B0%20Ph%C3%B9ng%20H%C6%B0ng%2C%20Ph%C3%B9ng%20H%C6%B0ng%2027B%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJE0i84burNTERuMf3u6aPfJk"
+  },
+  {
+    "id": "hn-55",
+    "name": "Phở gà 26 Lương Văn Can",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Lương Văn Can 26",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0332883,
+    "longitude": 105.850108,
+    "priceMin": 45000.0,
+    "priceMax": 75000.0,
+    "rating": 4.7,
+    "tags": [
+      "popular",
+      "cheap",
+      "late-night"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "late-night",
+      "solo"
+    ],
+    "moods": [
+      "popular",
+      "cheap",
+      "late-night",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Phở gà có cả bản nước và bản trộn khô ăn kèm bát nước dùng riêng, nước dùng nhẹ, giá mềm.",
+    "image": "🍜",
+    "popularity": 27.200000000000003,
+    "openingHours": "07:30–14:00, 16:30–23:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20g%C3%A0%2026%20L%C6%B0%C6%A1ng%20V%C4%83n%20Can%2C%20L%C6%B0%C6%A1ng%20V%C4%83n%20Can%2026%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJ1_U0r7-rNTER0b5BuKzkTKw"
+  },
+  {
+    "id": "hn-56",
+    "name": "Phở gà Khánh béo",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Hàng Hòm 22",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0321012,
+    "longitude": 105.8487265,
+    "priceMin": 45000.0,
+    "priceMax": 70000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "cheap",
+      "late-night"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "late-night",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Quán nhỏ chuyên phở gà và mì gà trộn, ngồi ghế thấp kiểu phố cổ, thực đơn ngắn.",
+    "image": "🍜",
+    "popularity": 26.0,
+    "openingHours": "11:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20g%C3%A0%20Kh%C3%A1nh%20b%C3%A9o%2C%20H%C3%A0ng%20H%C3%B2m%2022%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJ1Z-rOb6rNTER9Y7VAEySD2w"
+  },
+  {
+    "id": "hn-57",
+    "name": "Phở Xưa Gia Truyền",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Ngõ 102 Ngọc Thụy",
+    "area": "Long Biên",
+    "latitude": 21.0505874,
+    "longitude": 105.8650684,
+    "priceMin": 45000.0,
+    "priceMax": 70000.0,
+    "rating": 5.0,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Quán phở bò nhỏ ở Ngọc Thụy, mở từ sáng sớm, có bán thêm cơm rang.",
+    "image": "🍜",
+    "popularity": 24.799999999999997,
+    "openingHours": "05:00–15:00, 18:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20X%C6%B0a%20Gia%20Truy%E1%BB%81n%2C%20Ng%C3%B5%20102%20Ng%E1%BB%8Dc%20Th%E1%BB%A5y%2C%20Long%20Bi%C3%AAn%2C%20Hanoi&query_place_id=ChIJbcCdawCrNTERv66jIq_V36E"
+  },
+  {
+    "id": "hn-58",
+    "name": "Phở bò gia truyền Thúy",
+    "category": "Pho",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Nguyễn Sơn 16",
+    "area": "Long Biên",
+    "latitude": 21.0481303,
+    "longitude": 105.875012,
+    "priceMin": 40000.0,
+    "priceMax": 70000.0,
+    "rating": 4.0,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Phở bò giá bình dân ở Nguyễn Sơn, bát khởi điểm khoảng 40k; chỗ ngồi còn đơn giản.",
+    "image": "🍜",
+    "popularity": 23.60000000000001,
+    "openingHours": "06:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20b%C3%B2%20gia%20truy%E1%BB%81n%20Th%C3%BAy%2C%20Nguy%E1%BB%85n%20S%C6%A1n%2016%2C%20Long%20Bi%C3%AAn%2C%20Hanoi&query_place_id=ChIJM1FcmdWrNTER-myyRSrs3co"
+  },
+  {
+    "id": "hn-59",
+    "name": "Bún thang Thanh gia truyền",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Ngõ 23/2 Tôn Thất Thiệp",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.033633,
+    "longitude": 105.8437992,
+    "priceMin": 50000.0,
+    "priceMax": 90000.0,
+    "rating": 4.9,
+    "tags": [
+      "local",
+      "quiet"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "quiet",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Bún thang và phở gà nước dùng thanh trong ngõ yên tĩnh, có thêm xôi gà nấm và quẩy.",
+    "image": "🍲",
+    "popularity": 22.400000000000006,
+    "openingHours": "07:00–14:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20thang%20Thanh%20gia%20truy%E1%BB%81n%2C%20Ng%C3%B5%2023/2%20T%C3%B4n%20Th%E1%BA%A5t%20Thi%E1%BB%87p%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJYRNTC3GrNTERUDFdwD8fA30"
+  },
+  {
+    "id": "hn-60",
+    "name": "Bún thang Lan Lùn",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Hàng Thiếc 5",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0337051,
+    "longitude": 105.8479686,
+    "priceMin": 45000.0,
+    "priceMax": 70000.0,
+    "rating": 4.7,
+    "tags": [
+      "hidden-gem",
+      "cheap",
+      "local"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "cheap",
+      "local",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bún thang gà trên phố Hàng Thiếc, bát khoảng 45k, ngồi ghế thấp trong quán nhỏ kiểu nhà dân.",
+    "image": "🍲",
+    "popularity": 21.200000000000003,
+    "openingHours": "06:00–22:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20thang%20Lan%20L%C3%B9n%2C%20H%C3%A0ng%20Thi%E1%BA%BFc%205%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJpXzleCirNTERDlO1DRvfJ0w"
+  },
+  {
+    "id": "hn-61",
+    "name": "Bún thang cô Bình",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Cầu Gỗ 29",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0321484,
+    "longitude": 105.8530256,
+    "priceMin": 50000.0,
+    "priceMax": 80000.0,
+    "rating": 4.0,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "solo"
+    ],
+    "description": "Quán bún thang và phở nhỏ ở Cầu Gỗ, chỉ bán buổi sáng và thường hết sớm.",
+    "image": "🍲",
+    "popularity": 20.0,
+    "openingHours": "06:00–11:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20thang%20c%C3%B4%20B%C3%ACnh%2C%20C%E1%BA%A7u%20G%E1%BB%97%2029%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJAcONbXurNTER5jgBJ4TTPRQ"
+  },
+  {
+    "id": "hn-62",
+    "name": "Miến lươn Cô Thiện",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Trần Quý Cáp 8",
+    "area": "Đống Đa",
+    "latitude": 21.0275166,
+    "longitude": 105.8401989,
+    "priceMin": 40000.0,
+    "priceMax": 70000.0,
+    "rating": 4.2,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Miến lươn gọi được ba kiểu: nước, trộn hoặc xào; lươn giòn hoặc lươn mềm. Quán nhỏ lâu năm gần Văn Miếu.",
+    "image": "🍜",
+    "popularity": 18.799999999999997,
+    "openingHours": "07:00–19:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mi%E1%BA%BFn%20l%C6%B0%C6%A1n%20C%C3%B4%20Thi%E1%BB%87n%2C%20Tr%E1%BA%A7n%20Qu%C3%BD%20C%C3%A1p%208%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi&query_place_id=ChIJRQt6xYerNTERippS-7o6gco"
+  },
+  {
+    "id": "hn-63",
+    "name": "Miến lươn Hương béo",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Nguyễn Tư Giản 46",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0387253,
+    "longitude": 105.8544676,
+    "priceMin": 30000.0,
+    "priceMax": 60000.0,
+    "rating": 4.6,
+    "tags": [
+      "hidden-gem",
+      "cheap",
+      "local"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "cheap",
+      "local",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Quán trong ngõ nhỏ gần sông Hồng, chỉ bán miến lươn nước và miến xào, lươn rán tại chỗ.",
+    "image": "🍜",
+    "popularity": 17.60000000000001,
+    "openingHours": "07:00–15:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mi%E1%BA%BFn%20l%C6%B0%C6%A1n%20H%C6%B0%C6%A1ng%20b%C3%A9o%2C%20Nguy%E1%BB%85n%20T%C6%B0%20Gi%E1%BA%A3n%2046%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJ-Zd-I_erNTER-6WQVdr0n3o"
+  },
+  {
+    "id": "hn-64",
+    "name": "Miến lươn Phủ Doãn",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Phủ Doãn 9",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0298828,
+    "longitude": 105.8478186,
+    "priceMin": 40000.0,
+    "priceMax": 80000.0,
+    "rating": 4.3,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Quán gia đình ở Phủ Doãn, có miến lươn nước, miến xào/trộn, mỳ trộn lươn và nem rán.",
+    "image": "🍜",
+    "popularity": 16.400000000000006,
+    "openingHours": "06:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mi%E1%BA%BFn%20l%C6%B0%C6%A1n%20Ph%E1%BB%A7%20Do%C3%A3n%2C%20Ph%E1%BB%A7%20Do%C3%A3n%209%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJe2i97pWrNTERjbSj_J9Vuvs"
+  },
+  {
+    "id": "hn-65",
+    "name": "Miến lươn Lan Hương",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Hồ Đắc Di A1",
+    "area": "Đống Đa",
+    "latitude": 21.0117637,
+    "longitude": 105.8283411,
+    "priceMin": 40000.0,
+    "priceMax": 80000.0,
+    "rating": 4.2,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Miến lươn và cháo lươn ở khu tập thể Nam Đồng, đông nhất khoảng 8h–9h30 sáng.",
+    "image": "🍜",
+    "popularity": 15.200000000000003,
+    "openingHours": "06:00–21:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mi%E1%BA%BFn%20l%C6%B0%C6%A1n%20Lan%20H%C6%B0%C6%A1ng%2C%20H%E1%BB%93%20%C4%90%E1%BA%AFc%20Di%20A1%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi&query_place_id=ChIJj-mdkX-rNTERebLijAgNqto"
+  },
+  {
+    "id": "hn-66",
+    "name": "Bún ngan Loan béo",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Bùi Ngọc Dương 42",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0008763,
+    "longitude": 105.8540431,
+    "priceMin": 40000.0,
+    "priceMax": 70000.0,
+    "rating": 4.2,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Quán bún ngan, bún mọc ở Bùi Ngọc Dương, mở cả buổi sáng lẫn tối.",
+    "image": "🍲",
+    "popularity": 14.0,
+    "openingHours": "07:00–14:00, 15:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ngan%20Loan%20b%C3%A9o%2C%20B%C3%B9i%20Ng%E1%BB%8Dc%20D%C6%B0%C6%A1ng%2042%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi&query_place_id=ChIJ17XDRyqtNTERJtEbfKGVFWk"
+  },
+  {
+    "id": "hn-67",
+    "name": "Bún ngan bà Thông",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Bát Sứ 56",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0342605,
+    "longitude": 105.847254,
+    "priceMin": 40000.0,
+    "priceMax": 70000.0,
+    "rating": 4.2,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Quán bún ngan hơn 40 năm trên phố Bát Sứ, bát khoảng 50k, có bán tiết canh ngan.",
+    "image": "🍲",
+    "popularity": 12.799999999999997,
+    "openingHours": "07:00–21:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ngan%20b%C3%A0%20Th%C3%B4ng%2C%20B%C3%A1t%20S%E1%BB%A9%2056%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJ66OCj76rNTERUKE8Cdobcn4"
+  },
+  {
+    "id": "hn-68",
+    "name": "Bún miến ngan Lan Vinh",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Phùng Hưng 115E",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0348643,
+    "longitude": 105.8459006,
+    "priceMin": 50000.0,
+    "priceMax": 110000.0,
+    "rating": 4.3,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "solo"
+    ],
+    "description": "Quán bún miến ngan ở Phùng Hưng, có phần ngan luộc ăn kèm bún, rau thơm và nước chấm riêng.",
+    "image": "🍲",
+    "popularity": 11.600000000000009,
+    "openingHours": "09:00–15:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20mi%E1%BA%BFn%20ngan%20Lan%20Vinh%2C%20Ph%C3%B9ng%20H%C6%B0ng%20115E%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJVRXfOryrNTER_cDaUuLXp-A"
+  },
+  {
+    "id": "hn-69",
+    "name": "Bánh đa cua Hải Phòng Châu Long",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Châu Long 55",
+    "area": "Ba Đình",
+    "latitude": 21.0439556,
+    "longitude": 105.8423001,
+    "priceMin": 45000.0,
+    "priceMax": 80000.0,
+    "rating": 4.9,
+    "tags": [
+      "hidden-gem",
+      "local"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "local",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Bánh đa cua kiểu Hải Phòng, gọi được bát nước hoặc bát trộn; quán có điều hòa, sạch sẽ.",
+    "image": "🍲",
+    "popularity": 10.400000000000006,
+    "openingHours": "06:00–17:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20%C4%91a%20cua%20H%E1%BA%A3i%20Ph%C3%B2ng%20Ch%C3%A2u%20Long%2C%20Ch%C3%A2u%20Long%2055%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi&query_place_id=ChIJSaSLBQCrNTER1hEkgIDE2j0"
+  },
+  {
+    "id": "hn-70",
+    "name": "Hằng - Bánh đa cua",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Hàng Bún 32",
+    "area": "Ba Đình",
+    "latitude": 21.0424911,
+    "longitude": 105.8452446,
+    "priceMin": 40000.0,
+    "priceMax": 60000.0,
+    "rating": 4.6,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Quán bánh đa cua nhỏ ở Hàng Bún, bát khoảng 40–55k, chủ quán hay hướng dẫn cách trộn.",
+    "image": "🍲",
+    "popularity": 9.200000000000003,
+    "openingHours": "06:30–18:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=H%E1%BA%B1ng%20-%20B%C3%A1nh%20%C4%91a%20cua%2C%20H%C3%A0ng%20B%C3%BAn%2032%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi&query_place_id=ChIJ4Vqy0xyrNTERBq1XFydGkFU"
+  },
+  {
+    "id": "hn-71",
+    "name": "Bánh đa cua Hải Phòng - Bún cá quán cô Thắm",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Bắc Linh Đàm CT1-X2",
+    "area": "Hoàng Mai",
+    "latitude": 20.9684042,
+    "longitude": 105.8247445,
+    "priceMin": 35000.0,
+    "priceMax": 55000.0,
+    "rating": 4.6,
+    "tags": [
+      "hidden-gem",
+      "cheap",
+      "local"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "hidden-gem",
+      "cheap",
+      "local",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Quán bánh đa cua và bún cá ở Linh Đàm, bát khoảng 40k, không gian rộng thoáng.",
+    "image": "🍲",
+    "popularity": 8.0,
+    "openingHours": "05:30–13:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20%C4%91a%20cua%20H%E1%BA%A3i%20Ph%C3%B2ng%20-%20B%C3%BAn%20c%C3%A1%20qu%C3%A1n%20c%C3%B4%20Th%E1%BA%AFm%2C%20B%E1%BA%AFc%20Linh%20%C4%90%C3%A0m%20CT1-X2%2C%20Ho%C3%A0ng%20Mai%2C%20Hanoi&query_place_id=ChIJ97u1SPStNTERESyXUotTzPc"
+  },
+  {
+    "id": "hn-72",
+    "name": "Bún bò Huế Ngự Uyển Nguyên Hồng",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Nguyên Hồng 67",
+    "area": "Đống Đa",
+    "latitude": 21.0166528,
+    "longitude": 105.8110735,
+    "priceMin": 45000.0,
+    "priceMax": 80000.0,
+    "rating": 4.8,
+    "tags": [
+      "popular"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "popular",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Quán bún bò Huế mở từ sớm đến tối trên phố Nguyên Hồng, đông khách địa phương, có bán thêm các món ăn kèm.",
+    "image": "🌶️",
+    "popularity": 6.799999999999997,
+    "openingHours": "05:00–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20b%C3%B2%20Hu%E1%BA%BF%20Ng%E1%BB%B1%20Uy%E1%BB%83n%20Nguy%C3%AAn%20H%E1%BB%93ng%2C%20Nguy%C3%AAn%20H%E1%BB%93ng%2067%2C%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20Hanoi&query_place_id=ChIJ67FMqN-rNTERhMiHS9PMRyM"
+  },
+  {
+    "id": "hn-73",
+    "name": "Bún ốc Thúy",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Ngõ Đồng Xuân 11",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0373908,
+    "longitude": 105.8498466,
+    "priceMin": 40000.0,
+    "priceMax": 60000.0,
+    "rating": 4.3,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Quán trong ngõ Đồng Xuân chỉ bán một món bún ốc, nước dùng chua nhẹ, ăn kèm ớt và rau; bát khoảng 45k.",
+    "image": "🐚",
+    "popularity": 5.6000000000000085,
+    "openingHours": "07:30–17:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20%E1%BB%91c%20Th%C3%BAy%2C%20Ng%C3%B5%20%C4%90%E1%BB%93ng%20Xu%C3%A2n%2011%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJreww2birNTERWXljCZJNB5E"
+  },
+  {
+    "id": "hn-74",
+    "name": "Bún riêu cô Hương béo",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "Trần Xuân Soạn 57",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0167357,
+    "longitude": 105.852969,
+    "priceMin": 40000.0,
+    "priceMax": 65000.0,
+    "rating": 4.0,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bún riêu tóp mỡ, chả viên rán giòn; quán nhỏ nên giờ cao điểm thường phải chờ.",
+    "image": "🍲",
+    "popularity": 4.400000000000006,
+    "openingHours": "06:30–21:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ri%C3%AAu%20c%C3%B4%20H%C6%B0%C6%A1ng%20b%C3%A9o%2C%20Tr%E1%BA%A7n%20Xu%C3%A2n%20So%E1%BA%A1n%2057%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi&query_place_id=ChIJ_SaUiAarNTERr8qOJExsCc4"
+  },
+  {
+    "id": "hn-75",
+    "name": "Bún chả Hương Liên",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lê Văn Hưu 24",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0181373,
+    "longitude": 105.8538926,
+    "priceMin": 70000.0,
+    "priceMax": 150000.0,
+    "rating": 4.1,
+    "tags": [
+      "popular"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Quán bún chả nổi tiếng nhờ bữa ăn của Anthony Bourdain và Barack Obama năm 2016, ăn kèm nem cua bể.",
+    "image": "🍢",
+    "popularity": 3.200000000000003,
+    "openingHours": "08:00–20:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ch%E1%BA%A3%20H%C6%B0%C6%A1ng%20Li%C3%AAn%2C%20L%C3%AA%20V%C4%83n%20H%C6%B0u%2024%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi&query_place_id=ChIJXWi6pPKrNTER55D6MD-WZ34"
+  },
+  {
+    "id": "hn-76",
+    "name": "Bún chả nem cua bể Hoàng Yến",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lý Thái Tổ 2",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0312693,
+    "longitude": 105.8545071,
+    "priceMin": 60000.0,
+    "priceMax": 110000.0,
+    "rating": 4.4,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "dinner",
+      "friends",
+      "solo"
+    ],
+    "description": "Bún chả kèm nem cua bể rán tại chỗ, có ghế vỉa hè và phòng điều hòa nhỏ bên trong.",
+    "image": "🍢",
+    "popularity": 2.0,
+    "openingHours": "08:30–21:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ch%E1%BA%A3%20nem%20cua%20b%E1%BB%83%20Ho%C3%A0ng%20Y%E1%BA%BFn%2C%20L%C3%BD%20Th%C3%A1i%20T%E1%BB%95%202%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJvWAW6RarNTERsVSCmDb0nLM"
+  },
+  {
+    "id": "hn-77",
+    "name": "Bún chả nem cua bể 47C Mai Hắc Đế",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Mai Hắc Đế 47C",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0149562,
+    "longitude": 105.8510349,
+    "priceMin": 40000.0,
+    "priceMax": 80000.0,
+    "rating": 4.1,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "friends",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "friends",
+      "solo"
+    ],
+    "description": "Quán bún chả khoảng 30 năm, bếp mở nướng liên tục, khách mua mang về xếp hàng trước quán.",
+    "image": "🍢",
+    "popularity": 0.7999999999999972,
+    "openingHours": "09:20–15:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ch%E1%BA%A3%20nem%20cua%20b%E1%BB%83%2047C%20Mai%20H%E1%BA%AFc%20%C4%90%E1%BA%BF%2C%20Mai%20H%E1%BA%AFc%20%C4%90%E1%BA%BF%2047C%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi&query_place_id=ChIJwcMKwoyrNTERmoOoSS5Q3x8"
+  },
+  {
+    "id": "hn-78",
+    "name": "Bún chả nem cua bể Hàng Mã",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Mã 59",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.036591,
+    "longitude": 105.8479711,
+    "priceMin": 45000.0,
+    "priceMax": 90000.0,
+    "rating": 4.5,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "solo",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "solo",
+      "friends"
+    ],
+    "description": "Quán bún chả gia đình ở Hàng Mã, có nem cua bể và chả cốm, khẩu phần khá lớn.",
+    "image": "🍢",
+    "popularity": -0.3999999999999915,
+    "openingHours": "10:00–15:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20ch%E1%BA%A3%20nem%20cua%20b%E1%BB%83%20H%C3%A0ng%20M%C3%A3%2C%20H%C3%A0ng%20M%C3%A3%2059%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJF0wU3WSrNTER-t57pfdTtms"
+  },
+  {
+    "id": "hn-79",
+    "name": "Bún đậu mắm tôm Cô Hoa",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Âu Triệu 25",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.028232,
+    "longitude": 105.8481286,
+    "priceMin": 40000.0,
+    "priceMax": 80000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "cheap",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Mẹt bún đậu có đậu rán giòn, chả cốm, nem, thịt luộc; mắm tôm pha sẵn, có bia hơi.",
+    "image": "🍱",
+    "popularity": -1.5999999999999943,
+    "openingHours": "06:30–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20%C4%91%E1%BA%ADu%20m%E1%BA%AFm%20t%C3%B4m%20C%C3%B4%20Hoa%2C%20%C3%82u%20Tri%E1%BB%87u%2025%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJT4iYMcGrNTERCcVJMrVElVo"
+  },
+  {
+    "id": "hn-80",
+    "name": "Bún đậu Gốc Đa",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Ngõ Gạch 4",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0363591,
+    "longitude": 105.8506153,
+    "priceMin": 40000.0,
+    "priceMax": 100000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "group-friendly",
+      "late-night"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "late-night"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "late-night",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Mẹt bún đậu giá mềm ở ngõ Gạch, chỗ ngồi rộng và mở đến 23h.",
+    "image": "🍱",
+    "popularity": -2.799999999999997,
+    "openingHours": "07:30–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20%C4%91%E1%BA%ADu%20G%E1%BB%91c%20%C4%90a%2C%20Ng%C3%B5%20G%E1%BA%A1ch%204%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJjeCbIACrNTERWN5sFFHiMYU"
+  },
+  {
+    "id": "hn-81",
+    "name": "Bún đậu Thanh Hằng",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Mã Mây 5",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0361441,
+    "longitude": 105.8530287,
+    "priceMin": 30000.0,
+    "priceMax": 110000.0,
+    "rating": 4.0,
+    "tags": [
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "lunch",
+      "friends"
+    ],
+    "description": "Bún đậu phố Mã Mây, topping bán theo đĩa nên đi nhóm chia được nhiều món; có bia hơi.",
+    "image": "🍱",
+    "popularity": -4.0,
+    "openingHours": "10:30–16:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20%C4%91%E1%BA%ADu%20Thanh%20H%E1%BA%B1ng%2C%20M%C3%A3%20M%C3%A2y%205%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJB-pYrMCrNTERuH2UCwXj0WU"
+  },
+  {
+    "id": "hn-82",
+    "name": "Bánh cuốn Bà Xuân",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hoè Nhai 16",
+    "area": "Ba Đình",
+    "latitude": 21.0421987,
+    "longitude": 105.8477122,
+    "priceMin": 40000.0,
+    "priceMax": 70000.0,
+    "rating": 4.3,
+    "tags": [
+      "popular",
+      "local"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "popular",
+      "local",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bánh cuốn tráng tại chỗ, có loại thường, trứng và giò; quán nhỏ nên thường phải xếp hàng.",
+    "image": "🥢",
+    "popularity": -5.200000000000003,
+    "openingHours": "06:00–13:00, 16:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20cu%E1%BB%91n%20B%C3%A0%20Xu%C3%A2n%2C%20Ho%C3%A8%20Nhai%2016%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi&query_place_id=ChIJxbUH5LmrNTERZkgJnAK0riU"
+  },
+  {
+    "id": "hn-83",
+    "name": "Bánh cuốn nóng gia truyền 50 Đội Cấn",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Đội Cấn 50",
+    "area": "Ba Đình",
+    "latitude": 21.0344314,
+    "longitude": 105.8302316,
+    "priceMin": 30000.0,
+    "priceMax": 60000.0,
+    "rating": 4.2,
+    "tags": [
+      "local",
+      "cheap",
+      "late-night"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "late-night",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Bánh cuốn nóng làm ngay khi gọi, nhân thịt băm mộc nhĩ; giờ cao điểm có thể chờ khoảng nửa tiếng.",
+    "image": "🥢",
+    "popularity": -6.3999999999999915,
+    "openingHours": "06:00–23:45",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20cu%E1%BB%91n%20n%C3%B3ng%20gia%20truy%E1%BB%81n%2050%20%C4%90%E1%BB%99i%20C%E1%BA%A5n%2C%20%C4%90%E1%BB%99i%20C%E1%BA%A5n%2050%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi&query_place_id=ChIJ74IhcKCrNTERxDwO3w1Hxmc"
+  },
+  {
+    "id": "hn-84",
+    "name": "Bánh cuốn Cao Bằng",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Mạc Thái Tông 20",
+    "area": "Cầu Giấy",
+    "latitude": 21.0137097,
+    "longitude": 105.79466,
+    "priceMin": 35000.0,
+    "priceMax": 70000.0,
+    "rating": 4.2,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "solo"
+    ],
+    "description": "Bánh cuốn kiểu Cao Bằng làm từ gạo vùng cao, ăn kèm bát nước dùng và măng chua.",
+    "image": "🥢",
+    "popularity": -7.599999999999994,
+    "openingHours": "06:00–21:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20cu%E1%BB%91n%20Cao%20B%E1%BA%B1ng%2C%20M%E1%BA%A1c%20Th%C3%A1i%20T%C3%B4ng%2020%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20Hanoi&query_place_id=ChIJ4z_uEFirNTER_eOF9wfVlV0"
+  },
+  {
+    "id": "hn-85",
+    "name": "Vua Chả Cá Mai Hắc Đế",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Mai Hắc Đế 76A",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0132951,
+    "longitude": 105.8509404,
+    "priceMin": 150000.0,
+    "priceMax": 300000.0,
+    "rating": 4.9,
+    "tags": [
+      "popular",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Chả cá rán trên bếp tại bàn cùng bún, thì là, hành và mắm tôm, thường gọi theo set; nhân viên hướng dẫn cách làm.",
+    "image": "🐟",
+    "popularity": -8.799999999999997,
+    "openingHours": "10:30–22:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Vua%20Ch%E1%BA%A3%20C%C3%A1%20Mai%20H%E1%BA%AFc%20%C4%90%E1%BA%BF%2C%20Mai%20H%E1%BA%AFc%20%C4%90%E1%BA%BF%2076A%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi&query_place_id=ChIJCwoFmIyrNTERKmtUq595ZYY"
+  },
+  {
+    "id": "hn-86",
+    "name": "Vua Chả Cá Nguyễn Thị Định",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Nguyễn Thị Định 48",
+    "area": "Cầu Giấy",
+    "latitude": 21.0100524,
+    "longitude": 105.8044875,
+    "priceMin": 150000.0,
+    "priceMax": 300000.0,
+    "rating": 4.9,
+    "tags": [
+      "popular",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Quán chả cá nhiều tầng, ngoài chả cá còn có lẩu cá tầm; giờ cao điểm khá ồn.",
+    "image": "🐟",
+    "popularity": -10.0,
+    "openingHours": "10:30–14:00, 17:30–21:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Vua%20Ch%E1%BA%A3%20C%C3%A1%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20%C4%90%E1%BB%8Bnh%2C%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20%C4%90%E1%BB%8Bnh%2048%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20Hanoi&query_place_id=ChIJFwB6O6CsNTEROeFzvUPGdRc"
+  },
+  {
+    "id": "hn-87",
+    "name": "Chả cá Thăng Long",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Chả Cá 17A",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0356329,
+    "longitude": 105.849346,
+    "priceMin": 150000.0,
+    "priceMax": 250000.0,
+    "rating": 4.7,
+    "tags": [
+      "group-friendly",
+      "late-night"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "late-night",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Chả cá làm tại bàn trên phố Chả Cá, mỗi phần khoảng 170k, ăn kèm bún, rau thơm và mắm tôm.",
+    "image": "🐟",
+    "popularity": -11.200000000000003,
+    "openingHours": "09:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ch%E1%BA%A3%20c%C3%A1%20Th%C4%83ng%20Long%2C%20Ch%E1%BA%A3%20C%C3%A1%2017A%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJvxBc3TSrNTERmc5NPItxzgY"
+  },
+  {
+    "id": "hn-88",
+    "name": "Nhà hàng chả cá Hề",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Ngõ 12 Trần Quý Kiên 8",
+    "area": "Cầu Giấy",
+    "latitude": 21.0362942,
+    "longitude": 105.7921951,
+    "priceMin": 130000.0,
+    "priceMax": 250000.0,
+    "rating": 4.9,
+    "tags": [
+      "popular",
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "group-friendly",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Nhà hàng chả cá có combo cho hai người, chả cá nghệ thì là và canh cá.",
+    "image": "🐟",
+    "popularity": -12.399999999999991,
+    "openingHours": "10:00–14:00, 17:00–22:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nh%C3%A0%20h%C3%A0ng%20ch%E1%BA%A3%20c%C3%A1%20H%E1%BB%81%2C%20Ng%C3%B5%2012%20Tr%E1%BA%A7n%20Qu%C3%BD%20Ki%C3%AAn%208%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20Hanoi&query_place_id=ChIJLbiqYW2rNTEREAQ_AGmNCvw"
+  },
+  {
+    "id": "hn-89",
+    "name": "Quán xôi Bự",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Lò Đúc 61",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0159245,
+    "longitude": 105.8565431,
+    "priceMin": 30000.0,
+    "priceMax": 60000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "cheap"
+    ],
+    "situations": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "moods": [
+      "local",
+      "cheap",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "solo"
+    ],
+    "description": "Xôi ăn kèm thịt ba chỉ kho, ăn no với giá mềm, bán từ sáng đến tối.",
+    "image": "🍚",
+    "popularity": -13.599999999999994,
+    "openingHours": "06:30–22:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Qu%C3%A1n%20x%C3%B4i%20B%E1%BB%B1%2C%20L%C3%B2%20%C4%90%C3%BAc%2061%2C%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Hanoi&query_place_id=ChIJsWnnS_KrNTERVzPl1bXh854"
+  },
+  {
+    "id": "hn-90",
+    "name": "Phở cuốn Hưng Bền",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Trấn Vũ 118",
+    "area": "Ba Đình",
+    "latitude": 21.0447157,
+    "longitude": 105.8412237,
+    "priceMin": 70000.0,
+    "priceMax": 150000.0,
+    "rating": 4.4,
+    "tags": [
+      "popular",
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "local",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Phở cuốn bò, phở chiên phồng, phở xào và ngao; khách địa phương đông.",
+    "image": "🥢",
+    "popularity": -14.799999999999997,
+    "openingHours": "09:00–23:00",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20cu%E1%BB%91n%20H%C6%B0ng%20B%E1%BB%81n%2C%20Tr%E1%BA%A5n%20V%C5%A9%20118%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi&query_place_id=ChIJH8bFCj2rNTERPH4GObkuxzk"
+  },
+  {
+    "id": "hn-91",
+    "name": "Phở cuốn 31 Ngũ Xã",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Ngũ Xã 31",
+    "area": "Ba Đình",
+    "latitude": 21.0459589,
+    "longitude": 105.8409444,
+    "priceMin": 60000.0,
+    "priceMax": 150000.0,
+    "rating": 4.2,
+    "tags": [
+      "popular",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "popular",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Phở cuốn, nộm và bún trộn, phần lớn, chia nhau được; thường có đoàn tour ghé ăn trưa.",
+    "image": "🥢",
+    "popularity": -16.0,
+    "openingHours": "09:00–22:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20cu%E1%BB%91n%2031%20Ng%C5%A9%20X%C3%A3%2C%20Ng%C5%A9%20X%C3%A3%2031%2C%20Ba%20%C4%90%C3%ACnh%2C%20Hanoi&query_place_id=ChIJy0OG0rGrNTERCnV_GkclLok"
+  },
+  {
+    "id": "hn-92",
+    "name": "Bún bò Nam Bộ Bách Phương",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Hàng Điếu 73-75",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0321585,
+    "longitude": 105.8469112,
+    "priceMin": 55000.0,
+    "priceMax": 110000.0,
+    "rating": 4.5,
+    "tags": [
+      "popular",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "moods": [
+      "popular",
+      "local",
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "description": "Quán gần như chỉ bán bún bò Nam Bộ: bún trộn thịt bò xào, lạc, đu đủ muối, ăn kèm nem rán.",
+    "image": "🥗",
+    "popularity": -17.200000000000003,
+    "openingHours": "07:30–22:30",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20b%C3%B2%20Nam%20B%E1%BB%99%20B%C3%A1ch%20Ph%C6%B0%C6%A1ng%2C%20H%C3%A0ng%20%C4%90i%E1%BA%BFu%2073-75%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJ7_EaCb6rNTER8wxjCPDCtiQ"
+  }
+]

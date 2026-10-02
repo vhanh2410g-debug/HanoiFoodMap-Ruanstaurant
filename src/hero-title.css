@@ -1,0 +1,96 @@
+.hero h1 {
+  width: max-content;
+  max-width: 100%;
+  font-size: clamp(68px, 7.4vw, 102px);
+  font-style: italic;
+  line-height: .89;
+  letter-spacing: -.02em;
+  transform: rotate(-4deg);
+  transform-origin: 16% 52%;
+  animation: hero-title-float 4.2s ease-in-out infinite;
+}
+
+.page-heading h1 {
+  animation: hero-title-float 4.2s ease-in-out infinite;
+}
+
+@keyframes hero-title-float {
+  0%, 100% { translate: 0 0; }
+  50% { translate: 0 -7px; }
+}
+
+.hero h1 .title-ha-noi {
+  display: block;
+}
+
+.hero-title-wrap {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.hero-title-sticker {
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
+  user-select: none;
+  filter: drop-shadow(0 3px 3px #701c1c45);
+  animation: sticker-drift 3.5s ease-in-out infinite;
+}
+
+.sticker-spark {
+  top: 17%;
+  right: 3%;
+  color: #fff392;
+  font-size: 30px;
+  animation-delay: -.8s;
+}
+
+.sticker-star {
+  top: 57%;
+  left: -24px;
+  color: #fff0ca;
+  font-size: 20px;
+  animation-delay: -1.7s;
+}
+
+.sticker-noodles {
+  right: -20px;
+  bottom: 4%;
+  font-size: 25px;
+  animation-delay: -.3s;
+}
+
+@keyframes sticker-drift {
+  0%, 100% { translate: 0 0; rotate: -5deg; }
+  50% { translate: 0 -7px; rotate: 5deg; }
+}
+
+.hero h1 em {
+  display: block;
+  margin: .01em 0 0 1.62em;
+  font-size: .96em;
+}
+
+@media (max-width: 700px) {
+  .hero h1 {
+    font-size: 69px;
+    line-height: .87;
+    transform: rotate(-3.5deg);
+    transform-origin: 10% 50%;
+  }
+
+  .hero h1 em {
+    margin-left: 1.5em;
+  }
+
+  .sticker-spark { font-size: 24px; right: 1%; top: 15%; }
+  .sticker-star { left: -12px; font-size: 16px; }
+  .sticker-noodles { right: -11px; font-size: 20px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero h1,
+  .page-heading h1 { animation: none; }
+  .hero-title-sticker { animation: none; }
+}
