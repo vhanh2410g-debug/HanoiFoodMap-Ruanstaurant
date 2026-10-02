@@ -1,0 +1,9 @@
+{
+  "name": "hanoi-food-map",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "predev": "python scripts/sync_restaurants.py", "dev": "vite", "prebuild": "python scripts/sync_restaurants.py", "build": "vite build", "preview": "vite preview", "sync:restaurants": "python scripts/sync_restaurants.py" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "lucide-react": "latest", "leaflet": "latest", "react-leaflet": "latest" },
+  "devDependencies": {}
+}
