@@ -3344,5 +3344,1015 @@
     "popularity": -17.200000000000003,
     "openingHours": "07:30–22:30",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BAn%20b%C3%B2%20Nam%20B%E1%BB%99%20B%C3%A1ch%20Ph%C6%B0%C6%A1ng%2C%20H%C3%A0ng%20%C4%90i%E1%BA%BFu%2073-75%2C%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20Hanoi&query_place_id=ChIJ7_EaCb6rNTER8wxjCPDCtiQ"
+  },
+  {
+    "id": "hn-93",
+    "name": "Mộc Vị Huế",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "water",
+    "address": "",
+    "area": "Thanh Xuân",
+    "latitude": 20.9982453,
+    "longitude": 105.8418381,
+    "priceMin": 40000.0,
+    "priceMax": 90000.0,
+    "rating": 4.5,
+    "tags": [
+      "local",
+      "spicy"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "spicy",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Quán món Huế với bún bò và các món đặc trưng miền Trung.",
+    "image": "🍜",
+    "popularity": -18.39999999999999,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/Pbz2fabPVGFSypCD8"
+  },
+  {
+    "id": "hn-94",
+    "name": "SuSuBao - Trần Quốc Hoàn",
+    "category": "Snacks",
+    "foodGroup": "asian",
+    "cuisineRegion": "Trung Quốc",
+    "form": "dry",
+    "address": "Trần Quốc Hoàn",
+    "area": "Cầu Giấy",
+    "latitude": 21.0417785,
+    "longitude": 105.7868671,
+    "priceMin": 45000.0,
+    "priceMax": 130000.0,
+    "rating": 4.4,
+    "tags": [
+      "group-friendly",
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "group-friendly",
+      "cheap",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Bánh bao, sủi cảo và món nhẹ kiểu Trung, ăn nhanh gọn.",
+    "image": "🥟",
+    "popularity": -19.599999999999994,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/UTRAetjsiPEBWWuW7"
+  },
+  {
+    "id": "hn-95",
+    "name": "Tiệm ăn Xúc Xắc",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0407393,
+    "longitude": 105.8759617,
+    "priceMin": 50000.0,
+    "priceMax": 120000.0,
+    "rating": 4.5,
+    "tags": [
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Tiệm cơm kiểu gia đình, hợp ăn cùng bạn bè.",
+    "image": "🍚",
+    "popularity": -20.799999999999997,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/2f4QLo6B23pbvSLc6"
+  },
+  {
+    "id": "hn-96",
+    "name": "Family 99",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0378818,
+    "longitude": 105.7854217,
+    "priceMin": 50000.0,
+    "priceMax": 150000.0,
+    "rating": 4.3,
+    "tags": [
+      "group-friendly",
+      "family-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "family-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Quán ăn rộng rãi, hợp đi nhóm bạn hoặc gia đình.",
+    "image": "🍽️",
+    "popularity": -22.0,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/yQrk3tctXGdKmVac8"
+  },
+  {
+    "id": "hn-97",
+    "name": "Bít Tết Mỳ Ý Chảo",
+    "category": "Noodles",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Tây Hồ",
+    "latitude": 21.0625249,
+    "longitude": 105.8074855,
+    "priceMin": 60000.0,
+    "priceMax": 150000.0,
+    "rating": 4.4,
+    "tags": [
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Bít tết và mỳ Ý phục vụ trên chảo nóng, giá dễ chịu.",
+    "image": "🥩",
+    "popularity": -23.19999999999999,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/a6NbhwAEUsCeEaT97"
+  },
+  {
+    "id": "hn-98",
+    "name": "Indoor coffee",
+    "category": "Cafe",
+    "foodGroup": "drinks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Tây Hồ",
+    "latitude": 21.0643209,
+    "longitude": 105.808836,
+    "priceMin": 30000.0,
+    "priceMax": 70000.0,
+    "rating": 4.5,
+    "tags": [
+      "quiet",
+      "study-friendly"
+    ],
+    "situations": [
+      "study",
+      "solo",
+      "date"
+    ],
+    "moods": [
+      "quiet",
+      "study-friendly",
+      "study",
+      "solo",
+      "date"
+    ],
+    "description": "Quán cà phê yên tĩnh, hợp ngồi học hoặc làm việc.",
+    "image": "☕",
+    "popularity": -24.39999999999999,
+    "openingHours": "08:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/ZXYdrvoy5TkCBjZy6"
+  },
+  {
+    "id": "hn-99",
+    "name": "Păng-Xê coffee & tea",
+    "category": "Cafe",
+    "foodGroup": "drinks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Tây Hồ",
+    "latitude": 21.0674336,
+    "longitude": 105.8097934,
+    "priceMin": 30000.0,
+    "priceMax": 65000.0,
+    "rating": 4.4,
+    "tags": [
+      "quiet",
+      "date"
+    ],
+    "situations": [
+      "date",
+      "study",
+      "friends"
+    ],
+    "moods": [
+      "quiet",
+      "date",
+      "study",
+      "friends"
+    ],
+    "description": "Quán cà phê và trà nhẹ nhàng, hợp hẹn bạn bè.",
+    "image": "🍵",
+    "popularity": -25.599999999999994,
+    "openingHours": "08:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/CTLmChVQhrrBzVYE7"
+  },
+  {
+    "id": "hn-100",
+    "name": "LỊM DONUTS - TÔ HIỆU",
+    "category": "Dessert",
+    "foodGroup": "dessert",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Tô Hiệu",
+    "area": "Cầu Giấy",
+    "latitude": 21.0425615,
+    "longitude": 105.7959158,
+    "priceMin": 15000.0,
+    "priceMax": 60000.0,
+    "rating": 4.4,
+    "tags": [
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "cheap",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Bánh donut nhiều vị, mua ăn vặt hoặc làm quà.",
+    "image": "🍩",
+    "popularity": -26.799999999999997,
+    "openingHours": "09:00–21:30",
+    "mapUrl": "https://maps.app.goo.gl/sKTzzaJHkdgxumUL9"
+  },
+  {
+    "id": "hn-101",
+    "name": "The Pasta House",
+    "category": "Noodles",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0423976,
+    "longitude": 105.7956442,
+    "priceMin": 70000.0,
+    "priceMax": 180000.0,
+    "rating": 4.5,
+    "tags": [
+      "date",
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "date",
+      "friends"
+    ],
+    "moods": [
+      "date",
+      "group-friendly",
+      "dinner",
+      "friends"
+    ],
+    "description": "Nhà hàng mỳ Ý và tiramisu, không gian hợp hẹn hò.",
+    "image": "🍝",
+    "popularity": -28.0,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/V7vwQdksR1XC4QeYA"
+  },
+  {
+    "id": "hn-102",
+    "name": "Pizza Ông Tây - Núi Trúc",
+    "category": "Snacks",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Số 2 ngõ 12 Núi Trúc",
+    "area": "Ba Đình",
+    "latitude": 21.0289992,
+    "longitude": 105.8234687,
+    "priceMin": 50000.0,
+    "priceMax": 150000.0,
+    "rating": 4.2,
+    "tags": [
+      "cheap",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "cheap",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Pizza giá sinh viên, hay có khuyến mãi trên app giao hàng.",
+    "image": "🍕",
+    "popularity": -29.19999999999999,
+    "openingHours": "09:00–21:00",
+    "mapUrl": "https://maps.app.goo.gl/v1TfuFYBscDeSEXs6"
+  },
+  {
+    "id": "hn-103",
+    "name": "S'box (Spaghettibox)",
+    "category": "Noodles",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "Số 10 ngõ 12 Núi Trúc",
+    "area": "Ba Đình",
+    "latitude": 21.0287893,
+    "longitude": 105.8233981,
+    "priceMin": 45000.0,
+    "priceMax": 130000.0,
+    "rating": 4.3,
+    "tags": [
+      "cheap",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "cheap",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Mỳ Ý và pizza đế mỏng, không gian trẻ trung cho sinh viên.",
+    "image": "🍝",
+    "popularity": -30.39999999999999,
+    "openingHours": "09:30–22:00",
+    "mapUrl": "https://maps.app.goo.gl/vXdQfsZ4rk6f9V4W8"
+  },
+  {
+    "id": "hn-104",
+    "name": "Lẩu Dì Tâm",
+    "category": "Hotpot",
+    "foodGroup": "hotpot",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0322707,
+    "longitude": 105.7839449,
+    "priceMin": 120000.0,
+    "priceMax": 250000.0,
+    "rating": 4.4,
+    "tags": [
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Quán lẩu hợp đi nhóm bạn hoặc gia đình.",
+    "image": "🍲",
+    "popularity": -31.599999999999994,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/8JK9Ab5EPN7cemcw5"
+  },
+  {
+    "id": "hn-105",
+    "name": "TOFU & SOY",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0308426,
+    "longitude": 105.7857123,
+    "priceMin": 50000.0,
+    "priceMax": 120000.0,
+    "rating": 4.4,
+    "tags": [
+      "quiet"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "moods": [
+      "quiet",
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "description": "Quán các món từ đậu phụ và đậu nành, ăn nhẹ nhàng.",
+    "image": "🍱",
+    "popularity": -32.8,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/ci2epKA6UPAtSHGp8"
+  },
+  {
+    "id": "hn-106",
+    "name": "Maison Sen Buffet",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0306348,
+    "longitude": 105.7877666,
+    "priceMin": 280000.0,
+    "priceMax": 400000.0,
+    "rating": 4.5,
+    "tags": [
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Buffet nhiều món, hợp đi nhóm hoặc gia đình.",
+    "image": "🍽️",
+    "popularity": -34.0,
+    "openingHours": "11:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/uuKiqvF4LkAjj2LG6"
+  },
+  {
+    "id": "hn-107",
+    "name": "Nhà Hàng Hải Sản Biển Đông",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0321094,
+    "longitude": 105.7876516,
+    "priceMin": 150000.0,
+    "priceMax": 400000.0,
+    "rating": 4.3,
+    "tags": [
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Nhà hàng hải sản, hợp tụ tập đông người.",
+    "image": "🦐",
+    "popularity": -35.19999999999999,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/9xqGKgLh8wUMuAdC6"
+  },
+  {
+    "id": "hn-108",
+    "name": "Pao Quán",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.034299,
+    "longitude": 105.7885756,
+    "priceMin": 60000.0,
+    "priceMax": 150000.0,
+    "rating": 4.3,
+    "tags": [
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Quán ăn bình dân, hợp đi cùng bạn bè.",
+    "image": "🍽️",
+    "popularity": -36.400000000000006,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/fwm1eUKRFQvGQ9xf9"
+  },
+  {
+    "id": "hn-109",
+    "name": "Tian Long",
+    "category": "Noodles",
+    "foodGroup": "asian",
+    "cuisineRegion": "Trung Quốc",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0319282,
+    "longitude": 105.7881733,
+    "priceMin": 80000.0,
+    "priceMax": 250000.0,
+    "rating": 4.4,
+    "tags": [
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Nhà hàng món Trung, hợp ăn nhóm.",
+    "image": "🥡",
+    "popularity": -37.599999999999994,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/QnEgWD1GoHoYcYQj9"
+  },
+  {
+    "id": "hn-110",
+    "name": "Nhà hàng Chả cá HỀ (Hanoi La Vong Fish Restaurant)",
+    "category": "Noodles",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0362942,
+    "longitude": 105.7921951,
+    "priceMin": 120000.0,
+    "priceMax": 200000.0,
+    "rating": 4.5,
+    "tags": [
+      "local",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "moods": [
+      "local",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "family"
+    ],
+    "description": "Chả cá kiểu Hà Nội ăn cùng bún, thì là và mắm tôm.",
+    "image": "🐟",
+    "popularity": -38.79999999999998,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/f8UTGYsr3yAbbHph9"
+  },
+  {
+    "id": "hn-111",
+    "name": "Bánh Xèo Tôm Nhảy - Bếp Xì Khói",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0351594,
+    "longitude": 105.7913088,
+    "priceMin": 50000.0,
+    "priceMax": 130000.0,
+    "rating": 4.4,
+    "tags": [
+      "group-friendly",
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "group-friendly",
+      "local",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Bánh xèo giòn ăn cùng rau sống và nước chấm.",
+    "image": "🥞",
+    "popularity": -40.0,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/MBqinkYRMPKHaD3E7"
+  },
+  {
+    "id": "hn-112",
+    "name": "Khrua Baan Thai",
+    "category": "Noodles",
+    "foodGroup": "asian",
+    "cuisineRegion": "Thái Lan",
+    "form": "dry",
+    "address": "",
+    "area": "Cầu Giấy",
+    "latitude": 21.0339915,
+    "longitude": 105.7929308,
+    "priceMin": 70000.0,
+    "priceMax": 180000.0,
+    "rating": 4.4,
+    "tags": [
+      "spicy",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends",
+      "date"
+    ],
+    "moods": [
+      "spicy",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends",
+      "date"
+    ],
+    "description": "Món Thái chua cay, hợp ăn nhóm bạn.",
+    "image": "🍜",
+    "popularity": -41.19999999999999,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/cBXM5P7dmZYwrHyG7"
+  },
+  {
+    "id": "hn-113",
+    "name": "Indian Curry House",
+    "category": "Rice",
+    "foodGroup": "asian",
+    "cuisineRegion": "",
+    "form": "dry",
+    "address": "",
+    "area": "Ba Đình",
+    "latitude": 21.0336312,
+    "longitude": 105.8102244,
+    "priceMin": 100000.0,
+    "priceMax": 250000.0,
+    "rating": 4.4,
+    "tags": [
+      "spicy",
+      "group-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "spicy",
+      "group-friendly",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Cà ri và các món Ấn Độ ăn cùng cơm hoặc bánh naan.",
+    "image": "🍛",
+    "popularity": -42.400000000000006,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/n6TPKnACExEtdho16"
+  },
+  {
+    "id": "hn-114",
+    "name": "MAAZI Old Quarter",
+    "category": "Rice",
+    "foodGroup": "asian",
+    "cuisineRegion": "",
+    "form": "dry",
+    "address": "",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0313197,
+    "longitude": 105.8472561,
+    "priceMin": 120000.0,
+    "priceMax": 280000.0,
+    "rating": 4.5,
+    "tags": [
+      "date",
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "date",
+      "friends"
+    ],
+    "moods": [
+      "date",
+      "group-friendly",
+      "dinner",
+      "friends"
+    ],
+    "description": "Nhà hàng Ấn Độ ở phố cổ, hợp hẹn hò hoặc đi nhóm.",
+    "image": "🍛",
+    "popularity": -43.599999999999994,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/7GfZm2UAbN75R5Vu7"
+  },
+  {
+    "id": "hn-115",
+    "name": "Quán Nga",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Hoàn Kiếm",
+    "latitude": 21.0229064,
+    "longitude": 105.854992,
+    "priceMin": 60000.0,
+    "priceMax": 150000.0,
+    "rating": 4.3,
+    "tags": [
+      "local"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "moods": [
+      "local",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Quán ăn gần khu Tràng Tiền, hợp ăn cùng bạn bè.",
+    "image": "🍽️",
+    "popularity": -44.79999999999998,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/tkfos3bmHTXdranR6"
+  },
+  {
+    "id": "hn-116",
+    "name": "Mawlana Restaurant Hanoi",
+    "category": "Rice",
+    "foodGroup": "asian",
+    "cuisineRegion": "",
+    "form": "dry",
+    "address": "",
+    "area": "Tây Hồ",
+    "latitude": 21.0630453,
+    "longitude": 105.8239963,
+    "priceMin": 80000.0,
+    "priceMax": 200000.0,
+    "rating": 4.5,
+    "tags": [
+      "group-friendly",
+      "family-friendly"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "family",
+      "friends"
+    ],
+    "moods": [
+      "group-friendly",
+      "family-friendly",
+      "lunch",
+      "dinner",
+      "family",
+      "friends"
+    ],
+    "description": "Món Ai Cập và Trung Đông như koshari, biryani, hummus.",
+    "image": "🍛",
+    "popularity": -46.0,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/aj9BdkMLxGMdrxCn6"
+  },
+  {
+    "id": "hn-117",
+    "name": "Maii Bistro",
+    "category": "Rice",
+    "foodGroup": "vietnamese",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Tây Hồ",
+    "latitude": 21.0652852,
+    "longitude": 105.8239156,
+    "priceMin": 80000.0,
+    "priceMax": 200000.0,
+    "rating": 4.4,
+    "tags": [
+      "date",
+      "quiet"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "date",
+      "friends"
+    ],
+    "moods": [
+      "date",
+      "quiet",
+      "lunch",
+      "dinner",
+      "friends"
+    ],
+    "description": "Nhà hàng món Việt không gian nhẹ nhàng, hợp hẹn hò.",
+    "image": "🍽️",
+    "popularity": -47.19999999999999,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/coYuVrskFs55BNCw5"
+  },
+  {
+    "id": "hn-118",
+    "name": "Tỏi Ớt - Nhậu đường phố",
+    "category": "Snacks",
+    "foodGroup": "snacks",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Hai Bà Trưng",
+    "latitude": 21.0148096,
+    "longitude": 105.858907,
+    "priceMin": 50000.0,
+    "priceMax": 200000.0,
+    "rating": 4.4,
+    "tags": [
+      "late-night",
+      "group-friendly",
+      "cheap"
+    ],
+    "situations": [
+      "dinner",
+      "late-night",
+      "friends"
+    ],
+    "moods": [
+      "late-night",
+      "group-friendly",
+      "cheap",
+      "dinner",
+      "friends"
+    ],
+    "description": "Quán nhậu kiểu đường phố, đồ nhắm đa dạng.",
+    "image": "🍻",
+    "popularity": -48.400000000000006,
+    "openingHours": "17:00–02:00",
+    "mapUrl": "https://maps.app.goo.gl/wRdr3vUS2o9jYWyT8"
+  },
+  {
+    "id": "hn-119",
+    "name": "Kuma Sushi & Dimsum",
+    "category": "Rice",
+    "foodGroup": "asian",
+    "cuisineRegion": "Nhật Bản",
+    "form": "dry",
+    "address": "",
+    "area": "Thanh Xuân",
+    "latitude": 20.9643892,
+    "longitude": 105.8259295,
+    "priceMin": 80000.0,
+    "priceMax": 250000.0,
+    "rating": 4.5,
+    "tags": [
+      "date",
+      "group-friendly"
+    ],
+    "situations": [
+      "dinner",
+      "friends",
+      "date"
+    ],
+    "moods": [
+      "date",
+      "group-friendly",
+      "dinner",
+      "friends"
+    ],
+    "description": "Sushi và dimsum phong cách Nhật – Hoa, hợp đi nhóm bạn.",
+    "image": "🍣",
+    "popularity": -49.599999999999994,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/oCrfwNc2GhLJs3ba6"
+  },
+  {
+    "id": "hn-120",
+    "name": "Lecker",
+    "category": "Snacks",
+    "foodGroup": "fast",
+    "cuisineRegion": "Việt Nam",
+    "form": "dry",
+    "address": "",
+    "area": "Đống Đa",
+    "latitude": 21.0099149,
+    "longitude": 105.8311129,
+    "priceMin": 30000.0,
+    "priceMax": 90000.0,
+    "rating": 4.3,
+    "tags": [
+      "cheap"
+    ],
+    "situations": [
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "moods": [
+      "cheap",
+      "lunch",
+      "dinner",
+      "solo",
+      "friends"
+    ],
+    "description": "Quán đồ ăn nhanh giá bình dân, tiện ăn nhanh hoặc mang đi.",
+    "image": "🍔",
+    "popularity": -50.79999999999998,
+    "openingHours": "10:00–22:00",
+    "mapUrl": "https://maps.app.goo.gl/xRftpMcoy1nHKmZa8"
   }
 ]
